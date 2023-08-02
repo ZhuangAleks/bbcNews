@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bbcNews</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="account">please input account</string>
+    <string name="password">please input password</string>
+    <string name="no_account">no account</string>
+    <string name="no_password">no password</string>
+    <string name="register_state">register success</string>
+    <string name="pwd">Password inconsistency</string>
+    <string name="error">The account or password is incorrect</string>
+    <string name="has_register">The account has been registered</string>
+    <string name="ok">ok</string>
+    <string name="close">close</string>
+    <string name="change">Switch language</string>
+    <string name="history">History entry record</string>
+    <string name="hint">hint</string>
+    <string name="login_message">Enter your account and password to log in</string>
+    <string name="help">help</string>
+    <string name="main">Page needs networking</string>
+    <string name="record">login record</string>
+    <string name="register_message">Enter your account and password toregister</string>
+</resources>
